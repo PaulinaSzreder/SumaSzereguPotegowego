@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\paulina\documents\visual studio 2013\projects\metodynumeryczne\sumaszeregupotegowego\source.cpp(19): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+c:\users\paulina\documents\visual studio 2013\projects\metodynumeryczne\sumaszeregupotegowego\source.cpp(20): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\paulina\documents\visual studio 2013\projects\metodynumeryczne\sumaszeregupotegowego\source.cpp(102): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+  SumaSzereguPotegowego.vcxproj -> C:\Users\Paulina\Documents\Visual Studio 2013\Projects\MetodyNumeryczne\Debug\SumaSzereguPotegowego.exe
